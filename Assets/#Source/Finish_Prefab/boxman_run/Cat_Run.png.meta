@@ -1,0 +1,146 @@
+fileFormatVersion: 2
+guid: af1f1ceb59a868e44a8ecf1b9abcb0b3
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Cat_Run_0
+    21300002: Cat_Run_1
+    21300004: Cat_Run_2
+    21300006: Cat_Run_3
+    21300008: Cat_Run_4
+    21300010: Cat_Run_5
+    21300012: Cat_Run_6
+    21300014: Cat_Run_7
+    21300016: Cat_Run_8
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 16
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Cat_Run_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 460
+        width: 203
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 459
+        width: 207
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_2
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 466
+        width: 207
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_3
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 237
+        width: 203
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_4
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 239
+        width: 193
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_5
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 235
+        width: 201
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 31
+        width: 194
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_7
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 32
+        width: 201
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Cat_Run_8
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 36
+        width: 193
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
